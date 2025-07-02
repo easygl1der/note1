@@ -1,6 +1,6 @@
 This is a README.md
 
-[Home](https://easygl1der.github.io/notes/mathnotes.html)
+[Home](https://easygl1der.github.io/note1/mathnotes.html)
 
 ## 大文件下载 / Large Files Download
 
@@ -10,7 +10,7 @@ This is a README.md
 
 ### 📥 下载链接 / Download Links
 
-👉 **[前往 Releases 页面下载大文件 / Go to Releases to download large files](https://github.com/easygl1der/notes/releases)**
+👉 **[前往 Releases 页面下载大文件 / Go to Releases to download large files](https://github.com/easygl1der/note1/releases)**
 
 ### 📁 可下载文件 / Available Files
 
